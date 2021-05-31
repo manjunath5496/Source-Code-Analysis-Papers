@@ -69,20 +69,16 @@
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(37).pdf" style="text-decoration:none;">code2vec: Learning Distributed Representations of Code</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(38).pdf" style="text-decoration:none;">Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(39).pdf" style="text-decoration:none;">EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(40).pdf" style="text-decoration:none;">Deep Probabilistic Programming Languages: A Qualitative Study</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(41).pdf" style="text-decoration:none;">Ariadne: Analysis for Machine Learning Programs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(42).pdf" style="text-decoration:none;">Deep Learning in Software Engineering</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(43).pdf" style="text-decoration:none;">DeepMutation: Mutation Testing of Deep Learning Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(44).pdf" style="text-decoration:none;">Neural Code Comprehension: A Learnable Representation of Code Semantics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(45).pdf" style="text-decoration:none;">Automatically Assessing Vulnerabilities Discovered by Compositional Analysis</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Source-Code-Analysis-Papers/blob/master/s(46).pdf" style="text-decoration:none;">A Survey of Reverse Engineering and Program Comprehension</a></li> 
                              
 </ul>
   
